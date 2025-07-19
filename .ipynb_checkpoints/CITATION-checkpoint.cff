@@ -1,0 +1,34 @@
+@ARTICLE{2019A&A...623A..39H,
+       author = {{Hippke}, Michael and {Heller}, Ren{\'e}},
+        title = "{Optimized transit detection algorithm to search for periodic transits of small planets}",
+      journal = {\aap},
+         year = "2019",
+        month = "Mar",
+       volume = {623},
+          eid = {A39},
+        pages = {A39},
+          doi = {10.1051/0004-6361/201834672},
+archivePrefix = {arXiv},
+       eprint = {1901.02015},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2019A&A...623A..39H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@MISC{2018ascl.soft12013L,
+   author = {{Lightkurve Collaboration} and {Cardoso}, J.~V.~d.~M. and
+             {Hedges}, C. and {Gully-Santiago}, M. and {Saunders}, N. and
+             {Cody}, A.~M. and {Barclay}, T. and {Hall}, O. and
+             {Sagear}, S. and {Turtelboom}, E. and {Zhang}, J. and
+             {Tzanidakis}, A. and {Mighell}, K. and {Coughlin}, J. and
+             {Bell}, K. and {Berta-Thompson}, Z. and {Williams}, P. and
+             {Dotson}, J. and {Barentsen}, G.},
+    title = "{Lightkurve: Kepler and TESS time series analysis in Python}",
+ keywords = {Software, NASA},
+howpublished = {Astrophysics Source Code Library},
+     year = 2018,
+    month = dec,
+archivePrefix = "ascl",
+   eprint = {1812.013},
+   adsurl = {http://adsabs.harvard.edu/abs/2018ascl.soft12013L},
+}
